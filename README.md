@@ -1,14 +1,19 @@
 FekSake
-I am a programmer who mains python. 
+I am a programmer. lol
 
 x5 main discord account termed..
-locked around 1000 discord accounts total
 
-Discord : FekSake#5624 : TERMED
+Discord : So long ago i forgot the name honestly but it was at the end of 2019
 
-discord : FekSake#5716 : TERMED
+Discord : FekSake#xxxx : Termed early 2021 or late 2020
 
-Newer discord : Msgme for it
+Discord : FekSake#5624 : TERMED somewhere in december around 27/12/2021
+
+Discord : FekSake#5716 : TERMED 14/01/2022
+
+Discord : Guess what... TERMED 25/01/2022
+
+Discord : Hoping we dont get termed again :) feksake#2872
 
 <a>
     <img src="https://komarev.com/ghpvc/?username=feksake">
