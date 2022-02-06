@@ -1,8 +1,6 @@
 FekSake
 I am a programmer. lol
 
-x5 main discord account termed..
-
 Discord : FekSake#xxxx : Termed 2019
 
 Discord : FekSake#xxxx : Termed early 2021 or late 2020
