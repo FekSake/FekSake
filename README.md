@@ -11,7 +11,7 @@ Discord : FekSake#5716 : TERMED 14/01/2022
 
 Discord : FekSake#7413 : TERMED 25/01/2022
 
-Discord : Hoping we dont get termed again :) feksake#2872
+Discord : FekSake#0971
 
 I promise discord. i follow TOS 😄
 
