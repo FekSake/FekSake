@@ -1,19 +1,6 @@
 FekSake
-I am a programmer. lol
 
-Discord : FekSake#xxxx : Termed 2019
-
-Discord : FekSake#xxxx : Termed early 2021 or late 2020
-
-Discord : FekSake#5624 : TERMED somewhere in december around 27/12/2021
-
-Discord : FekSake#5716 : TERMED 14/01/2022
-
-Discord : FekSake#7413 : TERMED 25/01/2022
-
-Discord : FekSake#0971
-
-I promise discord. i follow TOS 😄
+Discord : feksake
 
 <a>
     <img src="https://komarev.com/ghpvc/?username=feksake">
