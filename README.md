@@ -50,12 +50,44 @@ Check back soon to see my progress and completed repositories!
 ---
 
 <p align="center">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api?username=feksake&show_icons=true&theme=tokyonight" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=feksake&show_icons=true&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=feksake&show_icons=true&theme=buefy"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=feksake&show_icons=true&theme=buefy" alt="GitHub Stats" />
+    </picture>
     <br><br>
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feksake&layout=donut-vertical&theme=tokyonight" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=feksake&layout=donut-vertical&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=feksake&layout=donut-vertical&theme=buefy"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img width="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feksake&layout=donut-vertical&theme=buefy" alt="Top Languages" />
+    </picture>
     <br><br>
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=feksake&theme=tokyonight" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=feksake&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/wakatime?username=feksake&theme=buefy"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img width="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=feksake&theme=buefy" alt="Wakatime Stats" />
+    </picture>
 </p>
+
+
 
 ---
 
