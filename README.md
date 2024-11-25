@@ -95,4 +95,5 @@ Check back soon to see my progress and completed repositories!
 
 - **GitHub:** [FekSake](https://github.com/feksake)
 - **Discord:** FekSake
+- **Email:** <a href="mailto:feksake@feksake.com">feksake@feksake.com</a>
 - **Coming Soon:** Personal portfolio website!
