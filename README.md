@@ -38,7 +38,7 @@
 
 ### 🏗️ Roadmap Projects
 
-I'm currently working through various projects and exercises outlined in the [roadmap.sh backend developer guide](https://roadmap.sh/backend). These include:
+I'm currently working through various projects and exercises outlined in the [roadmap.sh backend developer guide](https://roadmap.sh/backend/projects). These include:
 
 - Building and understanding RESTful APIs.
 - Exploring database technologies and learning how to optimize queries.
