@@ -1,5 +1,5 @@
 <p align="center"> 
-    <h1 align="center">Hey there, I'm <strong>FekSake</strong>! 👋</h1>
+    <h1 align="center">Hey there, I'm <strong>Edijs</strong>! 👋</h1>
     <br>
     <strong>Welcome to my GitHub profile! Thanks for stopping by. 😊</strong>
     <br>
