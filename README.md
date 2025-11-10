@@ -21,7 +21,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **Backend Learning Series** | Small self-contained backend challenges following roadmap.sh — API servers, auth systems, and DB design. | Node.js, Express, PostgreSQL, Docker |
+| **Backend Learning Series** | Small backend projects following roadmap.sh projects. | Python, Databases, HTML/JS/CSS |
 
 👉 See all repositories [here →](https://github.com/feksake?tab=repositories)
 
