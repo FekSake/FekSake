@@ -13,7 +13,7 @@
 
 - 💻 **Backend Developer in Progress** - Currently deepening my backend skills through the [roadmap.sh backend guide](https://roadmap.sh/backend) and real-world project implementations.  
 - 🧩 **Hands On Learner** - I build everything from scratch to understand what’s happening under the hood: from API design and authentication to database optimization.  
-- 🎯 Next Goal (Q1 2026): Complete every project listed on roadmap.sh building, documenting, and refining each to production quality to strengthen my backend development portfolio.
+- 🎯 Next Goal (Q4 2026): Complete every project listed on roadmap.sh building, documenting, and refining each to production quality to strengthen my backend development portfolio.
 
 ---
 
