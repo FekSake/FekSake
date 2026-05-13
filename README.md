@@ -59,7 +59,6 @@
 ### 📨 Contact
 
 <p align="center">
-  <a href="mailto:feksake@feksake.com">📧 feksake@feksake.com</a> <br>
   Discord: <strong>FekSake</strong> <br>
 </p>
 
